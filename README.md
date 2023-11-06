@@ -50,3 +50,4 @@ I am actively pursuing front-end and back-end development roles in the tech indu
 You can reach out to me through [LinkedIn](https://www.linkedin.com/in/yourprofile/).
 
 Happy coding! 🌐
+![](https://komarev.com/ghpvc/?username=3umaGH)
