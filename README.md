@@ -49,7 +49,7 @@ I am actively pursuing front-end and back-end development roles in the tech indu
 
 ## Contact Me
 
-You can reach out to me through [LinkedIn](https://www.linkedin.com/in/yourprofile/).
+You can reach out to me through [LinkedIn](https://www.linkedin.com/in/sergeikorotych/).
 
 Happy coding! 🌐
 ![](https://komarev.com/ghpvc/?username=3umaGH)
