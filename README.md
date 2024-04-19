@@ -2,7 +2,7 @@
 
 ## About Me
 
-Front-end developer specializing in React+TS ⚛️. Working with React Router, Redux, TailwindCSS, and Node.js to develop dynamic and responsive web applications. Excited to contribute innovative solutions and enhance user experiences. 🚀
+Front-end developer specializing in React+TS ⚛️ to develop dynamic and responsive web applications. Excited to contribute innovative solutions and enhance user experiences. 🚀
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
