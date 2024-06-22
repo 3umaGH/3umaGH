@@ -47,10 +47,9 @@ Front-end developer specializing in React+TS ⚛️ to develop dynamic and respo
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3umaGH&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3umaGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3umaGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak Stats"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3umaGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages"><br>
 </div>
-
 
 # 👀 Current Focus 
 
@@ -62,3 +61,9 @@ You can reach out to me at 3uma@protonmail.com.
 
 Happy coding! 🌐
 ![](https://komarev.com/ghpvc/?username=3umaGH)
+
+## More Stats
+<div align="center">
+  <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/30fec56d-65be-4c0f-bffa-01624852c97a.png" alt="Coding Time" width="500px">
+</div>
+
