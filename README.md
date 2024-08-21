@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full Stack Developer (currently ~70% Front-end 💻, ~30% Back-end 🛠️) | #React #Node #TypeScript | Building skills across both front and back-end to enhance versatility 🌟 | Excited to contribute innovative solutions and enhance user experiences 🚀
+Full Stack Developer (currently ~70% front-end 💻, ~30% back-end 🛠️) | #React #Node #TypeScript | Building skills across both front and back-end to enhance versatility 🌟 | Excited to contribute innovative solutions and enhance user experiences 🚀
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
