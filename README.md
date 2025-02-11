@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full Stack Developer (currently ~70% front-end 💻, ~30% back-end 🛠️) | #React #Node #TypeScript | Building my skills across both front and back-end to enhance versatility 🌟 | Excited to contribute innovative solutions and enhance user experiences 🚀
+Full Stack Developer (~70% front-end 💻, ~30% back-end 🛠️) | #React #Node #TypeScript | I transform coffee into lines of code.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -50,10 +50,6 @@ Full Stack Developer (currently ~70% front-end 💻, ~30% back-end 🛠️) | #R
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=3umaGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak Stats"><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3umaGH&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="Top Languages"><br>
 </div>
-
-# 👀 Current Focus 
-
-I am actively pursuing front-end and back-end development roles in the tech industry!
 
 ## Contact Me
 
