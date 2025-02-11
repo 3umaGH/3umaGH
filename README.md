@@ -2,7 +2,7 @@
 
 ## About Me
 
-Full Stack Developer (~70% front-end 💻, ~30% back-end 🛠️) | #React #Node #TypeScript | I transform coffee into lines of code.
+I transform coffee into lines of code > Full Stack Developer (~70% front-end 💻, ~30% back-end 🛠️) | #React #Node #TypeScript |
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
