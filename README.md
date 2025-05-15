@@ -61,5 +61,6 @@ Happy coding! 🌐
 ## More Stats
 <div align="center">
   <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/30fec56d-65be-4c0f-bffa-01624852c97a.png" alt="Coding Time" width="500px">
+  <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/8890bb01-c311-43dc-a743-22fae1f8040f.png" alt="Coding Time" width="500px">
 </div>
 
