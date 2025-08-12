@@ -4,7 +4,7 @@
 
 Self-taught full-stack developer specializing in web development (React, Node.js). I’m passionate about building real-time, event-driven applications and crafting modular, scalable systems. Beyond coding, I enjoy entrepreneurship and bringing innovative side projects to life.
 
-Currently working on a data-driven RPG engine within Minecraft built with Java, with plans to build a distributed gaming network across multiple servers and regions with real-time inter-communication between servers.
+Currently working on a data-driven RPG engine within Minecraft built with Java, with plans to build a distributed gaming network across multiple servers and regions with real-time inter-communication between servers and CI/CD pipelines.
 
 Also: Give me a spreadsheet over a novel any day - numbers tell the best stories.
 
