@@ -4,7 +4,15 @@
 
 Self-taught full-stack developer specializing in web development (React, Node.js). I’m passionate about building real-time, event-driven applications and crafting modular, scalable systems. Beyond coding, I enjoy entrepreneurship and bringing innovative side projects to life.
 
-Currently working on a data-driven RPG engine within Minecraft built with Java, with plans to build a distributed gaming network across multiple servers and regions with real-time inter-communication between servers and CI/CD pipelines.
+Single-handedly developed RuneHeim, a full-featured Minecraft RPG across 11 repositories. Built a data-driven engine with:
+
+* React-powered dialogue and UI tools
+* Stateful items, 400+ custom gear, and 190+ crafting recipes
+* Dynamic player economy with real-time market calculations
+* Custom creatures, mounts, and living companions
+* Strategic combat system and interactive world map
+
+Project fully open-sourced here: https://github.com/RuneHeim-MMO
 
 Also: Give me a spreadsheet over a novel any day - numbers tell the best stories.
 
