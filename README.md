@@ -64,6 +64,5 @@ Happy coding! 🌐 <br/><br/>
 </div>
 </br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3umaGh&theme=tokyonight&show_icons=true" alt="Git Stats" width="500px">
   <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/8890bb01-c311-43dc-a743-22fae1f8040f.png" alt="Coding Time" width="500px">
 </div>
