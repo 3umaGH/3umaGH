@@ -64,5 +64,5 @@ Happy coding! 🌐 <br/><br/>
 </div>
 </br>
 <div align="center">
-  <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/50132739-788f-4946-aad5-3048d02f5dd7.png" alt="Coding Time" width="500px">
+  <img src="https://wakatime.com/share/@acfd1055-e7d0-4a34-8bc3-b614561b514f/42d2d281-95a6-4e45-b189-ff0452afec1d.png" alt="Coding Time" width="500px">
 </div>
